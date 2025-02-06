@@ -99,7 +99,7 @@ disparities in funding and investment patterns across different cities.
 
 ## Analytical Goals: 
 
-##### **Arear- 1: Startup Market Trend Analysis :**
+### **Arear- 1: Startup Market Trend Analysis :**
 
 1. Analyze the distribution of startups across key categories such as 
 industries and tech domains. 
@@ -116,7 +116,7 @@ understanding the revenue potential.
 
 
 
-##### **Arear- 2: Investors’ Funding Patterns Analysis :**
+### **Arear- 2: Investors’ Funding Patterns Analysis :**
 
 1. Analyze the yearly trend of investment inflow or funding into the Indian 
 startup market. 
@@ -137,7 +137,7 @@ types, such as Debt, Equity, and Grants, to assess investor preferences.
 
 
 
-##### **Arear- 3:  Valuation and growth analysis by Industries and Tech domains :**
+### **Arear- 3:  Valuation and growth analysis by Industries and Tech domains :**
 1. Analyze the yearly valuation trend of startups in the Indian market. 
 2. Identify underperforming technologies across different industry domains 
 based on valuation and growth metrics. 
@@ -147,7 +147,7 @@ the most effective technology integrations within industries.
 creation within the startup ecosystem.
 
 
-##### **Arear- 4:  Analysis of Social Impact created by the startup market :**
+### **Arear- 4:  Analysis of Social Impact created by the startup market :**
 1. Identify the key social impact KPIs associated with the Indian startup 
 market. 
 2. Analyze the industries generating the highest employment 
@@ -170,7 +170,7 @@ segments.
 
 
 
-##### **Arear- 5:  Analysing market trends across different geographical startup hubs :**
+### **Arear- 5:  Analysing market trends across different geographical startup hubs :**
 1. Identify the key startup hubs in India. 
 2. Evaluate market growth trends across different startup hub cities. 
 3. Compare startup density across major startup hubs to assess 
@@ -189,7 +189,7 @@ ecosystem.
 
 ## Uncovered Key Data-insights:
 
-#### **Area-1: Startup Market Trend Analysis**
+### **Area-1: Startup Market Trend Analysis**
 
 1. The Indian startup ecosystem comprises 12,428 startups, with an 
 average market growth rate of 27.4%. The ecosystem includes 1,000 
@@ -231,7 +231,7 @@ potential, as evidenced by their greater contribution to GDP.
 
 
 
-#### **Area-2: Investors’ Funding Patterns Analysis**
+### **Area-2: Investors’ Funding Patterns Analysis**
 
 1. The Indian startup market has attracted a total capital investment of 
 approximately Rs. 62.4 billion over the last decade.
@@ -277,7 +277,7 @@ experienced a steady increase in funding, highlighting their status as
 high-growth sectors preferred by investors.
 
 
-#### **Area-3: Valuation and growth analysis by Industries and Tech domains**
+### **Area-3: Valuation and growth analysis by Industries and Tech domains**
 
 1. FinTech, FoodTech, Travel, HealthTech, AgriTech, and EdTech have 
 experienced higher wealth creation and growth, particularly in 
@@ -301,7 +301,7 @@ terms of valuation.
 
 
 
-#### **Area-4: Analysis of Social Impact created by the startup market**
+### **Area-4: Analysis of Social Impact created by the startup market**
 
 1. Key KPIs for impact analysis indicate the following: 
   - Average Net Impact Score: 5.5 
@@ -341,7 +341,7 @@ combine industry and technology domains:
   - AgriTech: AI, IoT
 
 
-#### **Area-5: Analyzing market trends across different geographical startup hubs**
+### **Area-5: Analyzing market trends across different geographical startup hubs**
 
 1. Startup density varies across cities, with Pune & Chennai having the 
 lowest density and Bangalore & Mumbai having the highest density of 
@@ -374,7 +374,7 @@ disparities across different regions.
 <br />
 
 
-## Tools Implemented:
+## Tools Utilised:
 
 - Microsoft Power BI
 - Microsoft Excel
@@ -382,4 +382,4 @@ disparities across different regions.
 - Google Gemini
 
 
-Thank you .  .  .  .  : )
+### Thank you .  .  .  .  : )
