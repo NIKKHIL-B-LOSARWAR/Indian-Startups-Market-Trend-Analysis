@@ -9,31 +9,25 @@ slide-1 : Startup Market Analysis
 slide-2 : Funding Analysis
 <img width="910" alt="Slide 2" src="https://github.com/user-attachments/assets/0fca6099-4544-40c5-ac2e-2bde14e7c3c8" />
 
-
 <br />
 slide-3 : Impact Analysis
 <img width="910" alt="Slide 3" src="https://github.com/user-attachments/assets/f9ce1095-820f-48d3-86f4-48ad79e20a38" />
-
 
 <br />
 slide-4 : Valuation Analysis
 <img width="910" alt="Slide 4" src="https://github.com/user-attachments/assets/b259364a-42b8-446e-806a-b9596cce8a8c" />
 
-
 <br />
 slide-5 : Analysis of Geographical Startup markets
 <img width="910" alt="Slide 5" src="https://github.com/user-attachments/assets/660ed7fb-21e5-4b3b-8288-9fc9dada5d3a" />
-
 
 <br />
 Filter Pane View :
 <img width="910" alt="Filter pane view" src="https://github.com/user-attachments/assets/d874a370-a220-4cac-bba4-c824fbf32209" />
 
-
 <br />
 Page Navigator :
 <img width="910" alt="Page Navigator Pane View" src="https://github.com/user-attachments/assets/a4c60a0c-1295-4514-bc82-8c7e776e163c" />
-
 
 <br />
 <br />
@@ -53,7 +47,7 @@ data analysis are tailored by the scope of the project and shaped by the
 potential of the dataset. These analytical goals and the scope of the objective 
 can broadly be divided into different areas including- 
 
-###### **Area-1: Startup Market Trend Analysis.** 
+##### **Area-1: Startup Market Trend Analysis**
 
 - This analysis focuses on identifying key trends and patterns in the Indian 
 startup ecosystem by evaluating KPIs such as market growth rate, 
@@ -62,7 +56,7 @@ profitability, acquisitions, and founder activity.
 geographical distribution of companies, and compares growth rates with 
 GDP contribution to provide a holistic view of the ecosystem. 
 
-######  **Area-2: Investors’ Funding Patterns Analysis.**
+#####  **Area-2: Investors’ Funding Patterns Analysis**
 
 - This analysis explores investment and funding patterns in the Indian 
 startup ecosystem, shaped by factors like profitability, technology 
@@ -72,7 +66,7 @@ attracting the highest capital, and highlights the key investment
 behaviors of Indian investors. 
 
 
-######  **Area-3: Valuation and growth analysis by Industries and Tech domains.**
+#####  **Area-3: Valuation and growth analysis by Industries and Tech domains**
 
 - This section uncovers high-growth technology domains that drive rapid 
 wealth creation and high market valuations. 
@@ -81,7 +75,7 @@ growth of niche segments, and highlights underperforming sectors,
 providing a clear picture of which industries are leading or lagging. 
 
 
-######  **Area-4: Analysis of Social Impact created by the startup market.**
+#####  **Area-4: Analysis of Social Impact created by the startup market**
 
 - This analysis evaluates the employment creation potential of various 
 industries and tech domains in the startup ecosystem. 
@@ -93,8 +87,7 @@ Governance) ratings.
 tech combinations, contributing to overall social and economic impact. 
 
 
-######  **Area-5: Analyzing market trends across different geographical startup
-hubs.**
+#####  **Area-5: Analyzing market trends across different geographical startup hubs**
 
 - This section examines regional startup markets, assessing key metrics 
 such as market growth rate, investor concentration, market valuation, 
@@ -103,13 +96,12 @@ and average funding received by startups.
 disparities in funding and investment patterns across different cities.
 
 
-
 <br />
 <br />
 
 ## Analytical Goals: 
 
-##### **Arear- 1: Startup Market Trend Analysis.**
+##### **Arear- 1: Startup Market Trend Analysis :**
 
 1. Analyze the distribution of startups across key categories such as 
 industries and tech domains. 
@@ -126,7 +118,7 @@ understanding the revenue potential.
 
 
 
-##### **Arear- 2: Investors’ Funding Patterns Analysis.**
+##### **Arear- 2: Investors’ Funding Patterns Analysis :**
 
 1. Analyze the yearly trend of investment inflow or funding into the Indian 
 startup market. 
@@ -147,7 +139,7 @@ types, such as Debt, Equity, and Grants, to assess investor preferences.
 
 
 
-##### **Arear- 3:  Valuation and growth analysis by Industries and Tech domains.**
+##### **Arear- 3:  Valuation and growth analysis by Industries and Tech domains :**
 1. Analyze the yearly valuation trend of startups in the Indian market. 
 2. Identify underperforming technologies across different industry domains 
 based on valuation and growth metrics. 
@@ -157,7 +149,7 @@ the most effective technology integrations within industries.
 creation within the startup ecosystem.
 
 
-##### **Arear- 4:  Analysis of Social Impact created by the startup market.**
+##### **Arear- 4:  Analysis of Social Impact created by the startup market :**
 1. Identify the key social impact KPIs associated with the Indian startup 
 market. 
 2. Analyze the industries generating the highest employment 
@@ -180,7 +172,7 @@ segments.
 
 
 
-##### **Arear- 5:  Analysing market trends across different geographical startup hubs.**
+##### **Arear- 5:  Analysing market trends across different geographical startup hubs :**
 1. Identify the key startup hubs in India. 
 2. Evaluate market growth trends across different startup hub cities. 
 3. Compare startup density across major startup hubs to assess 
