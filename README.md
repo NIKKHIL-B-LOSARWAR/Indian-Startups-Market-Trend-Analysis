@@ -2,38 +2,36 @@
 
 ## Preview (Screenshots):
 
-slide-1 : Startup Market Analysis
+Slide-1 : Startup Market Analysis
 <img width="910" alt="Slide 1" src="https://github.com/user-attachments/assets/49160efa-1ada-40da-bf7a-8aafea54de44" />
 <br />
 
-slide-2 : Funding Analysis
+Slide-2 : Funding Analysis
 <img width="910" alt="Slide 2" src="https://github.com/user-attachments/assets/0fca6099-4544-40c5-ac2e-2bde14e7c3c8" />
-
 <br />
-slide-3 : Impact Analysis
+
+Slide-3 : Impact Analysis
 <img width="910" alt="Slide 3" src="https://github.com/user-attachments/assets/f9ce1095-820f-48d3-86f4-48ad79e20a38" />
-
 <br />
-slide-4 : Valuation Analysis
+
+Slide-4 : Valuation Analysis
 <img width="910" alt="Slide 4" src="https://github.com/user-attachments/assets/b259364a-42b8-446e-806a-b9596cce8a8c" />
-
 <br />
-slide-5 : Analysis of Geographical Startup markets
+
+Slide-5 : Analysis of Geographical Startup markets
 <img width="910" alt="Slide 5" src="https://github.com/user-attachments/assets/660ed7fb-21e5-4b3b-8288-9fc9dada5d3a" />
-
 <br />
+
 Filter Pane View :
 <img width="910" alt="Filter pane view" src="https://github.com/user-attachments/assets/d874a370-a220-4cac-bba4-c824fbf32209" />
-
 <br />
+
 Page Navigator :
 <img width="910" alt="Page Navigator Pane View" src="https://github.com/user-attachments/assets/a4c60a0c-1295-4514-bc82-8c7e776e163c" />
-
 <br />
 <br />
 
 ## Project Objective :
-
 
 
 The project ‘Indian Startup Market Trend Analysis’ aims to understand the 
@@ -186,13 +184,12 @@ different cities.
 ecosystem. 
 8. Assess which cities attract higher average funding for startups.  
 
-
-
 <br />
 <br />
+
 ## Uncovered Key Data-insights:
 
-#### **Area-1: Startup Market Trend Analysis.**
+#### **Area-1: Startup Market Trend Analysis**
 
 1. The Indian startup ecosystem comprises 12,428 startups, with an 
 average market growth rate of 27.4%. The ecosystem includes 1,000 
@@ -234,7 +231,7 @@ potential, as evidenced by their greater contribution to GDP.
 
 
 
-#### **Area-2: Investors’ Funding Patterns Analysis.**
+#### **Area-2: Investors’ Funding Patterns Analysis**
 
 1. The Indian startup market has attracted a total capital investment of 
 approximately Rs. 62.4 billion over the last decade.
@@ -280,11 +277,109 @@ experienced a steady increase in funding, highlighting their status as
 high-growth sectors preferred by investors.
 
 
+#### **Area-3: Valuation and growth analysis by Industries and Tech domains**
+
+1. FinTech, FoodTech, Travel, HealthTech, AgriTech, and EdTech have 
+experienced higher wealth creation and growth, particularly in 
+combination with key tech domains: 
+  - FinTech: Blockchain, Cloud, Big Data 
+  - FoodTech: AI, AR/VR, Blockchain 
+  - TravelTech: AR/VR 
+  - HealthTech: IoT 
+  - AgriTech: Blockchain 
+  - EdTech: AI
+    
+2. Over the last decade, Blockchain and Big Data have emerged as the 
+leading tech domains in the development of high-valuation startups.
+
+4. Bangalore and Mumbai are home to startups with the highest valuations 
+and growth, reinforcing their dominance as startup hubs.
+
+6. In recent years, FoodTech, HealthTech, and Retail have demonstrated 
+strong growth, while TravelTech and AgriTech have underperformed in 
+terms of valuation.
+
+
+
+#### **Area-4: Analysis of Social Impact created by the startup market**
+
+1. Key KPIs for impact analysis indicate the following: 
+  - Average Net Impact Score: 5.5 
+  - Average ESG Score: 5.5 
+  - Average Diversity Index: 50.1% 
+  - Total patents registered by Indian startups: 1,23,096
+    
+2. Bangalore, Mumbai, and Hyderabad are the top contributors to 
+employment creation in the startup ecosystem. 
+Breakdown of employment created by city hubs- 
+  - Mumbai: 17.4% 
+  - Bangalore: 17.4% 
+  - Hyderabad: 16.8% 
+  - Delhi: 16.5% 
+  - Pune: 16% 
+  - Chennai: 15.8%
+    
+3. Cloud, Blockchain, and AR/VR technologies have enabled startups to 
+scale rapidly by building a larger customer base.
+
+4. Cloud, Blockchain, and AR/VR are among the fastest-growing tech 
+domains, evidenced by their higher patent registrations.
+
+5. Startups in the Retail, HealthTech, and AgriTech sectors are facing 
+challenges in maintaining strong ESG scores.
+
+6. Mumbai and Hyderabad startups tend to have comparatively lower ESG 
+scores than other regions.
+
+7. High-impact startup segments that drive significant societal change 
+combine industry and technology domains: 
+  - EdTech: Cloud, Blockchain, AI 
+  - HealthTech: AR/VR, AI, Cloud 
+  - TravelTech: Cloud, IoT 
+  - Retail: Cloud, AI 
+  - FoodTech: IoT 
+  - AgriTech: AI, IoT
+
+
+#### **Area-5: Analyzing market trends across different geographical startup hubs**
+
+1. Startup density varies across cities, with Pune & Chennai having the 
+lowest density and Bangalore & Mumbai having the highest density of 
+startups.
+
+2. Chennai & Hyderabad exhibit a relatively higher startup growth rate 
+compared to other cities.
+ 
+3. Pune, Delhi, & Hyderabad have a higher proportion of profitable 
+startups, indicating stronger financial sustainability.
+
+4. Bangalore & Chennai have the highest number of loss-making startups, 
+suggesting potential challenges in financial viability.
+
+5. Most high-valuation startups are concentrated in Bangalore & Mumbai, 
+reinforcing their status as economic hubs.
+
+6. Investor concentration is highest in Delhi, Bangalore, & Hyderabad, 
+making them key cities for startup funding.
+
+7. Bangalore, Mumbai, & Delhi receive the highest funding capital, 
+indicating strong investor confidence in these markets.
+
+8. Delhi startups receive the lowest average funding, suggesting funding 
+disparities across different regions.
+
+
+
 <br />
 <br />
+
+
 ## Tools Implemented:
 
-
+- Microsoft Power BI
+- Microsoft Excel
+- ChatGPT
+- Google Gemini
 
 
 Thank you .  .  .  .  : )
