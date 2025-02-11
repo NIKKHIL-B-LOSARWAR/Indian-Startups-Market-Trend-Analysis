@@ -20,8 +20,10 @@ Slide-1 : Startup Market Analysis
 <br />
 
 Slide-2 : Funding Analysis
-<img width="910" alt="Slide 2" src="https://github.com/user-attachments/assets/0fca6099-4544-40c5-ac2e-2bde14e7c3c8" />
+<img width="910" alt="Slide 2" src="https://github.com/user-attachments/assets/a90c884a-7661-41a6-a440-a178d652d42f" />
 <br />
+
+
 
 Slide-3 : Impact Analysis
 <img width="910" alt="Slide 3" src="https://github.com/user-attachments/assets/f9ce1095-820f-48d3-86f4-48ad79e20a38" />
